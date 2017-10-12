@@ -30,6 +30,10 @@ import gui.AppReader;
 import gui.AppMain;
 import gui.SL_JFrame;
 import gui.SystemClientStub;
+//test commit 12 10 2017 h 20 00
+//non corrispondevano le cartelle come posizione , sistemato mi ha ridato tutto
+//bella
+
 
 public class Client implements Serializable, Runnable  {
 	public 				int 				ctc=0;
